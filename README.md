@@ -4,4 +4,4 @@ A cracking Python script with a slick `tkinter` GUI and `requests` to hit the AI
 ---
 
 # 🤖 نمونه چت‌باکس هوش مصنوعی 🤖
-یه اسکریپت پایتون خفن با رابط کاربری شیک (`tkinter`) و اتصال به API هوش مصنوعی (`https://chatgpt.hosters.club/?chat=`) با `requests`. پیام بفرست، جواب JSON مثل `{"response": "ur %100 Gay."}` بگیر! 🔥✨
+یه اسکریپت پایتون کیری با (`tkinter`) و اتصال به API هوش مصنوعی (`https://chatgpt.hosters.club/?chat=`) با `requests`. پیام بفرست، جواب کیری JSON مثل `{"response": "ur %100 Gay."}` بگیر! 🔥✨
